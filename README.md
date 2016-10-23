@@ -13,7 +13,7 @@ A small helper for [tape](https://github.com/substack/tape) to inject dependenci
 
 ### testWithProvision(provider, [name], [opts], cb)
 Create a new test with an optional `name` string and optional `opts` object.
-`cb(t, dep1, dep2, ..., depx)` is fired with the new test object and dependencies returned from the `provider`.
+`cb(t, dep1, dep2, ..., depx)` is fired with the new test object along with the dependencies returned from calling the `provider` function.
 
 ## Example
 
