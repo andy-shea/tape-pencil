@@ -1,4 +1,5 @@
-<div style="text-align: center"><img alt="A pencil rewinding a cassette tape" src="https://farm8.static.flickr.com/7567/27795910783_eae6c8966b_b.jpg" width="300"/></div>
+<p align="center"><img alt="A pencil rewinding a cassette tape" src="https://farm8.static.flickr.com/7567/27795910783_eae6c8966b_b.jpg" width="300"/></p>
+
 # Pencil for tape
 
 [![Build Status](https://travis-ci.org/andy-shea/tape-pencil.svg?branch=master)](https://travis-ci.org/andy-shea/tape-pencil)
