@@ -1,13 +1,14 @@
+<div style="text-align: center"><img alt="A pencil rewinding a cassette tape" src="https://farm8.static.flickr.com/7567/27795910783_eae6c8966b_b.jpg" width="300"/></div>
 # Pencil for tape
 
 [![Build Status](https://travis-ci.org/andy-shea/tape-pencil.svg?branch=master)](https://travis-ci.org/andy-shea/tape-pencil)
 [![Code Coverage](http://codecov.io/github/andy-shea/tape-pencil/coverage.svg?branch=master)](http://codecov.io/github/andy-shea/tape-pencil?branch=master)
 
-A small helper for [tape](https://github.com/substack/tape) to inject dependencies into your tests.
+A small helper to inject complex dependencies into your [**tape**](https://github.com/substack/tape) tests.
 
 ## Install
 
-```npm install tape-pencil --save-dev```
+```yarn add --dev tape-pencil```
 
 ## API
 
